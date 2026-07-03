@@ -312,6 +312,9 @@ Bachelor of Computer Applications (BCA)
 - Git
 - GitHub
 
+<img width="551" height="346" alt="image" src="https://github.com/user-attachments/assets/bcf3851e-929a-4b17-a54d-5bb050d12105" />
+
+
 📧 Email:
 sumitshakya6695@gmail.com
 
